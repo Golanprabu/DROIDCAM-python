@@ -2,7 +2,7 @@
 
 DroidCam adalah aplikasi webcam yang memungkinkan Anda menggunakan kamera ponsel Android sebagai webcam nirkabel untuk komputer Anda. Aplikasi ini berguna untuk panggilan video, konferensi online, streaming, dan berbagai keperluan lainnya yang memerlukan webcam.
 
-![DroidCam Screenshot](droidcam test.jpg)
+[DroidCam Screenshot](droidcam test.jpg)
 
 ## Fitur Utama
 
